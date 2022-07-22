@@ -1,5 +1,6 @@
 # MMM-RedditKarma
 A simple MagicMirror² module to display user karma from Reddit.com. It can also show your snoovatar if the user is a reddit gold subscriber.
+
 ![Example of module](./MMM-RedditKarma%20example.png)
 
 ## Installation
