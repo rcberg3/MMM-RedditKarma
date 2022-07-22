@@ -1,6 +1,6 @@
 # MMM-RedditKarma
 A simple MagicMirror² module to display user karma from Reddit.com. It can also show your snoovatar if the user is a reddit gold subscriber.
-![Example of module](./screenshots/"MMM-RedditKarma example.png")
+![Example of module](./MMM-RedditKarma%20example.png)
 
 ## Installation
 
@@ -24,11 +24,11 @@ modules: [
         module: 'MMM-RedditKarma',
         position: 'bottom_left', // This can be any of the regions.
         config: {
-            reddit_user: "spez",
-		        use_snoovatar: true, 
-		        reload: 30, 
-		        use_color: true,
-        		header_with_u: true
+            	reddit_user: "spez",
+		use_snoovatar: true, 
+		reload: 30, 
+		use_color: true,
+        	header_with_u: true
         }
     }
 ]
